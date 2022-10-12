@@ -8,9 +8,9 @@
   <img src="https://user-images.githubusercontent.com/39638948/195275006-68ac27ef-7235-4f9a-913f-afd7eb22f06b.png" width="200" height="420" />
 </p>
 
-- Developed a lightweight mobile app using trans-pro.net APIs to check out tranlation cases for clients
+- Developed a lightweight mobile app using trans-pro.net APIs to check out translation cases for clients
 
-- Reduced runtime by up to 50% compared to trans-pro.net's web app by bypassing redundent APIs
+- Reduced runtime by up to 50% compared to trans-pro.net's web app by bypassing redundant APIs
 
 ### Features
 
