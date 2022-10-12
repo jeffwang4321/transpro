@@ -12,9 +12,13 @@
 
 - Reduced runtime by up to 50% compared to trans-pro.net's web app by bypassing redundent APIs
 
-- Features: Fetch job details, translator details, Evaluations, and copy manuscript text
+### Features
 
-- Private Features: Account logins, fetch mail and assign cases
+- Auto-refresh job board every 60s, manual refresh, and custom refresh listing selected pages
+
+- Expand job details, translator details, evaluations details, and copy manuscript text on click
+
+- Private Features: account logins, multiple user management, fetch mail, checkout and assign cases
 
 ## How to Test
 
